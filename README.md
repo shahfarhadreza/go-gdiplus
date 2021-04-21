@@ -3,6 +3,13 @@ This is a GDI+ wrapper package for the Go Programming Language. It includes the 
 
 ## Installation
 Simply run
+
 	go get -u github.com/shahfarhadreza/go-gdiplus
+
+
+## Using
+Simply import the package this way to use it
+
+	import "github.com/shahfarhadreza/go-gdiplus"
 
 
